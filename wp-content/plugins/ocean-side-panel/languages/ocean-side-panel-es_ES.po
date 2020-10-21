@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Side Panel\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2017-10-28 16:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-10-28 16:07+0000\n"
+"Last-Translator: sabiertas <angel@solucionesabiertas.es>\n"
+"Language-Team: Spanish (Spain)\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: es-ES\n"
+"X-Poedit-SearchPath-0: ."
+
+#: ocean-side-panel.php:223
+msgid "Side Panel Sidebar"
+msgstr "Barra lateral del panel deslizante"
+
+#: ocean-side-panel.php:225
+msgid "Widgets in this area are used in the side panel."
+msgstr "Los widgets de esta area mostrados en el panel deslizandte"
+
+#: ocean-side-panel.php:480
+msgid "Close Button Background: Hover"
+msgstr "Color de fondo del botón de cierre al pasar el cursor"
+
+#: ocean-side-panel.php:496
+msgid "Close Button Color"
+msgstr "Color del botón de cierre"
+
+#: ocean-side-panel.php:512
+msgid "Close Button Color: Hover"
+msgstr "Color del botón de cierre al pasar el cursor"
+
+#: ocean-side-panel.php:528
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: ocean-side-panel.php:544
+msgid "Headings Color"
+msgstr "Color de los encabezados"
+
+#: ocean-side-panel.php:560
+msgid "Links Color"
+msgstr "Color de los enlaces"
+
+#: ocean-side-panel.php:576
+msgid "Links Color: Hover"
+msgstr "Color de los enlaces al pasar el cursor"
+
+#: ocean-side-panel.php:592
+msgid "Widgets List Borders Color"
+msgstr "Color de los bordes de los widgets"
+
+#: ocean-side-panel.php:147 ocean-side-panel.php:156
+msgid "Cheatin&#8217; huh?"
+msgstr "¿Haciendo trampas?"
+
+#: ocean-side-panel.php:213
+msgid "Ocean Side Panel requires that you use OceanWP as your parent theme."
+msgstr "Ocean Side Panel neceista que OceanWP sea el tema padre."
+
+#: ocean-side-panel.php:213
+msgid "Install OceanWP Now"
+msgstr "Instalar OceanWP ahora"
+
+#: ocean-side-panel.php:249
+msgid "Side Panel"
+msgstr "Panel deslizante"
+
+#: ocean-side-panel.php:263
+msgid "Open Button Icon"
+msgstr "Icono del botón de apertura"
+
+#: ocean-side-panel.php:279
+msgid "Open Button Text"
+msgstr "Texto del botón de apertura"
+
+#: ocean-side-panel.php:295
+msgid "Enable On Tablets & Phones"
+msgstr "Activar en tabletas y Moviles"
+
+#: ocean-side-panel.php:311
+msgid "Display Close Button"
+msgstr "Mostrar botón de cierre"
+
+#: ocean-side-panel.php:328
+msgid "Displace"
+msgstr "Desplazar"
+
+#: ocean-side-panel.php:344
+msgid "Add Overlay"
+msgstr "Añadir superposición"
+
+#: ocean-side-panel.php:360
+msgid "Panel Position"
+msgstr "Posición del panel"
+
+#: ocean-side-panel.php:365
+msgid "Right"
+msgstr "Derecha"
+
+#: ocean-side-panel.php:366
+msgid "Left"
+msgstr "Izquierda"
+
+#: ocean-side-panel.php:389
+msgid "Panel Width (px)"
+msgstr "Anchura del panel (px)"
+
+#: ocean-side-panel.php:408 template/side-panel.php:15
+msgid "Close Panel"
+msgstr "Cerrar panel"
+
+#: ocean-side-panel.php:414
+msgid "Close Button Text"
+msgstr "Texto del botón de cierre"
+
+#: ocean-side-panel.php:431
+msgid "Overlay Color"
+msgstr "Color de superposición"
+
+#: ocean-side-panel.php:448
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: ocean-side-panel.php:464
+msgid "Close Button Background"
+msgstr "Color de fondo del botón de cierre"

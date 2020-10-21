@@ -1,0 +1,4 @@
+/* Side panel */
+.side-panel-btn.has-text.after-icon .side-panel-text { margin-right: 6px; margin-left: 0; }
+.side-panel-btn.has-text.before-icon .side-panel-text { margin-left: 6px; margin-right: 0; }
+#side-panel-wrap a.close-panel i { margin-left: 6px; margin-right: 0; }

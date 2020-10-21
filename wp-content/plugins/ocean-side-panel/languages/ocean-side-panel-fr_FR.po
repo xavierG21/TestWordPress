@@ -1,0 +1,185 @@
+# Copyright (C) 2016 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2017-07-27 16:19+0200\n"
+"PO-Revision-Date: 2017-07-27 16:21+0200\n"
+"Last-Translator: FreePixel <contact@freepixel.net>\n"
+"Language-Team: OceanWP\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Basepath: ../../../../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: Users/freepixel/Desktop/Dossier des traductions WP/• "
+"Ocean Extensions\n"
+"X-Poedit-SearchPath-1: Fichiers de Dossiers/CMS/WORDPRESS/• THEMES/• OceanWP/"
+"Extensions payantes/ocean-side-panel/ocean-side-panel.php\n"
+"X-Poedit-SearchPath-2: Fichiers de Dossiers/CMS/WORDPRESS/• THEMES/• OceanWP/"
+"Extensions payantes/ocean-side-panel/includes/customizer-helpers.php\n"
+"X-Poedit-SearchPath-3: Fichiers de Dossiers/CMS/WORDPRESS/• THEMES/• OceanWP/"
+"Extensions payantes/ocean-side-panel/includes/icons.php\n"
+"X-Poedit-SearchPath-4: Fichiers de Dossiers/CMS/WORDPRESS/• THEMES/• OceanWP/"
+"Extensions payantes/ocean-side-panel/template/side-panel.php\n"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:147
+#: payantes/ocean-side-panel/ocean-side-panel.php:156
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors on triche ?"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:213
+msgid "Ocean Side Panel requires that you use OceanWP as your parent theme."
+msgstr "Ocean Side Panel impose l’utilisation d’OceanWP comme thème principal."
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:213
+msgid "Install OceanWP Now"
+msgstr "Installer OceanWP maintenant"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:223
+msgid "Side Panel Sidebar"
+msgstr "Panneau latéral"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:225
+msgid "Widgets in this area are used in the side panel."
+msgstr "Les widgets dans cette zone sont utilisés dans le panneau latéral."
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:249
+msgid "Side Panel"
+msgstr "Panneau latéral"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:263
+msgid "Open Button Icon"
+msgstr "Icône du bouton d'ouverture"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:279
+msgid "Open Button Text"
+msgstr "Texte du bouton d'ouverture"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:295
+msgid "Enable On Tablets & Phones"
+msgstr "Activer sur tablettes & téléphones"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:311
+msgid "Display Close Button"
+msgstr "Afficher le bouton de fermeture"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:328
+msgid "Displace"
+msgstr "Déplacer"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:344
+msgid "Add Overlay"
+msgstr "Ajouter une superposition"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:360
+msgid "Panel Position"
+msgstr "Position du panneau"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:365
+msgid "Right"
+msgstr "À droite"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:366
+msgid "Left"
+msgstr "À gauche"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:389
+msgid "Panel Width (px)"
+msgstr "Largeur du panneau (px)"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:408
+#: payantes/ocean-side-panel/template/side-panel.php:15
+msgid "Close Panel"
+msgstr "Fermer le panneau"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:414
+msgid "Close Button Text"
+msgstr "Texte du bouton de fermeture"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:431
+msgid "Overlay Color"
+msgstr "Couleur de la superposition"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:448
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:464
+msgid "Close Button Background"
+msgstr "Arrière-plan du bouton de fermeture"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:480
+msgid "Close Button Background: Hover"
+msgstr "Arrière-plan au survol du bouton de fermeture"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:496
+msgid "Close Button Color"
+msgstr "Couleur du texte du bouton de fermeture"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:512
+msgid "Close Button Color: Hover"
+msgstr "Couleur au survol du texte du bouton de fermeture"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:528
+msgid "Text Color"
+msgstr "Couleur du texte "
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:544
+msgid "Headings Color"
+msgstr "Couleur des entêtes"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:560
+msgid "Links Color"
+msgstr "Couleur des liens"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:576
+msgid "Links Color: Hover"
+msgstr "Couleur des liens au survol"
+
+#: Fichiers de Dossiers/CMS/WORDPRESS/â¢ THEMES/â¢ OceanWP/Extensions
+#: payantes/ocean-side-panel/ocean-side-panel.php:592
+msgid "Widgets List Borders Color"
+msgstr "Couleur de bordure du Widget Listes"
+
+#~ msgid "Disable"
+#~ msgstr "Désactiver"
+
+#~ msgid "Enable"
+#~ msgstr "Activer"
